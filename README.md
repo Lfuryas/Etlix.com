@@ -1,2 +1,2 @@
-# Etlix.com
+# Etlix
 E-learning system 
